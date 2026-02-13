@@ -13,17 +13,17 @@
     "compression": "1.7.4",
     "cors": "2.8.5",
     "doasync": "2.0.1",
-    "express": "4.21.1",
+    "express": "4.22.0",
     "express-handlebars": "7.1.0",
     "insafe": "0.5.1",
     "jsdom": "22.1.0",
     "metaviewport-parser": "0.3.0",
     "morgan": "1.10.0",
-    "node-w3capi": "2.1.0",
+    "node-w3capi": "2.2.1",
     "promise": "8.3.0",
     "puppeteer": "21.2.1",
     "socket.io": "4.8.0",
-    "superagent": "8.1.2"
+    "superagent": "10.2.2"
   },
   "devDependencies": {
     "chai": "4.3.4",
